@@ -1,0 +1,9 @@
+#cardMenu{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#divMuestra{
+    display: flex;
+    flex-wrap: wrap;
+}
